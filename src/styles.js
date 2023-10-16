@@ -12,14 +12,5 @@ export default makeStyles(() => ({
   content: {
     flexGrow: '1',
     padding: '2em',
-    backgroundColor: 'red',
-  },
-  myclass: {
-    width: '150px',
-    height: '150px',
-    backgroundColor: 'blue',
-    display: 'flex',
-    justifyContent: 'center',
-    alignItems: 'center',
   },
 }));
